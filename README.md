@@ -11,6 +11,10 @@ at the bottom of the page u can see my github, linked in and skype.
 
 # Screen shot
 
+
+<img width="944" alt="Screen Shot 2021-04-26 at 6 10 26 PM" src="https://user-images.githubusercontent.com/74481523/116157997-e79f3d00-a6bb-11eb-977b-ef61466c25af.png">
+
+
 # User Story
 AS AN employer looking for candidates with experience building single-page applications
 I WANT to view a potential employee's deployed React portfolio of work samples
@@ -23,6 +27,10 @@ npm install -g create-react-app
 create-react-app portfolio
 cd portfolio
 npm start
+
+# Github repo
+
+https://github.com/zohamumtaz/reactportfolio
 
 # License 
 Licesned under MIT 
