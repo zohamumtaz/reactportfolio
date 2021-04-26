@@ -37,7 +37,7 @@ http://localhost:3000/#about
 
 
 # License 
-Licesned under MIT 
+Licensed under MIT 
 
 # Contribtions
 React.js and open source media and the help of U of t.
