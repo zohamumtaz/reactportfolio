@@ -32,6 +32,10 @@ npm start
 
 https://github.com/zohamumtaz/reactportfolio
 
+# React portfolio link
+http://localhost:3000/#about
+
+
 # License 
 Licesned under MIT 
 
