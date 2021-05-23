@@ -11,6 +11,12 @@ let resumeData = {
         "url":"https://www.linkedin.com/",
         "className":"fa fa-linkedin"
       },
+    {
+      "name":"final project",
+    "url":"http://bookend-recommendations.herokuapp.com/",
+    "className":"fa fa-folder-o"
+    },
+    
       {
         "name":"github",
         "url":"http://github.com/",
